@@ -1,6 +1,6 @@
 # ElevateLabs_Internship_Task-7
 Get Basic Sales Summary from a Tiny SQLite Database using Python Objective: Use SQL inside Python to pull simple sales info (like total quantity sold, total revenue), and display it using basic print statements and a simple bar chart.
-# 📊 Sales Summary with SQLite and Python
+#  Sales Summary with SQLite and Python
 
 This project demonstrates how to build a basic sales summary report using Python, SQLite, pandas, and matplotlib. The script connects to a local SQLite database, runs SQL queries to calculate key sales metrics, and displays the results in both text and a bar chart. Additionally, it calculates the average price per product and exports the summary to a CSV file.
 
